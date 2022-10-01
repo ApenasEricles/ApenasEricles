@@ -1,8 +1,8 @@
-<h2 align="center">Ok, I'm just a normal programming</h2>
+<h2 align="center">Only a developer</h2>
 
 ###
 
-<p align="left">yeah i know, this profile is kinda boring</p>
+<p align="left">this is only a kind boring</p>
 
 ###
 
