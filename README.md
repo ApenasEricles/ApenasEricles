@@ -13,7 +13,7 @@
 
 ###
 
-<img align="left" height="150" src="https://tenor.com/view/itadori-itadori-yuji-jujutsu-kaisen-gif-22620540"  />
+<img align="left" height="150" src="https://media1.giphy.com/media/8gSh4No47eIGA/giphy.gif?cid=ecf05e47xvgszsvlx2ldb8x8y09piphsqenbce11dv5gjzwj&rid=giphy.gif&ct=g"/>
 
 ###
 
