@@ -13,7 +13,7 @@
 
 ###
 
-<img align="left" height="150" src="https://64.media.tumblr.com/b1274c36ea3002be6a250a626c1b228d/8e637f1d47d089be-64/s640x960/12bb5763468dfea53815219467cffd02661b054b.gif"  />
+<img align="left" height="150" src="https://tenor.com/view/itadori-itadori-yuji-jujutsu-kaisen-gif-22620540"  />
 
 ###
 
