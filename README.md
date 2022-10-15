@@ -4,7 +4,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC7SAIeNtXoMQ-5JOmnDeKHA])
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@DevEricles#4169])
 
-![ApenasEricles GitHub stats](https://github-readme-stats.vercel.app/api?username=ApenasEricles&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApenasEricles)](https://github.com/ApenasEricles/github-readme-stats)
+![ApenasEricles GitHub stats](https://github-readme-stats.vercel.app/api?username=ApenasEricles&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApenasEricle)](https://github.com/ApenasEricles/github-readme-stats)
 
 ## Linguagens Do dia a dia:
 <div style="display: inline_block"><br/>
